@@ -1,0 +1,305 @@
+
+
+
+	header {
+	    background-color:rgb(255, 119, 35);
+	    color: white;
+	    
+	    padding:10px;	 
+	}
+
+	ul {
+	    list-style-type: none;
+	    margin: 0;
+	    padding: 0;
+	    overflow: hidden;
+	    background-color: rgb(255, 119, 35);
+	}
+
+	li {
+	    
+	    float: right;
+	}
+
+	li a {
+	    display: block;
+	    color: white;
+	    text-align: center;
+	    padding: 14px 20px;
+	    
+	    text-decoration: none;
+	}
+
+	li a:hover {
+	    background-color: rgb(108, 125, 130);
+	}
+
+	.active {
+	    background-color: rgb(255, 149, 0);
+	}
+
+
+	nav {
+	    
+	    background-color:rgb(255, 119, 35);
+	    height:100%;
+	    width:90px;
+	    float:left;
+	    
+
+	}
+
+
+	ul.navul {
+	    list-style-type: none;
+	    margin-top: -14px;
+	    height: 100%;
+	  
+	    background-color: rgb(255, 119, 35);
+	}
+
+	li.navlist {
+	margin-right: -15px;
+	height: 85px;
+
+
+	    
+	}
+
+	li a.navlista {
+
+	
+	   
+	}
+
+	li a.navlista:hover {
+	    background-color: rgb(108, 125, 130);
+	    
+
+
+
+	}
+	
+
+		img.Bajaj {
+			
+	   	width: 80px;
+	   	 height: 80px; 
+	   	
+	}
+
+		img.Honda {
+			
+	   	width: 80px;
+	   	 height: 80px; 
+	   	
+	}
+
+			img.Pegasus {
+			
+	   	width: 80px;
+	   	 height: 80px; 
+	   	
+	}
+
+			img.Suzuki	 {
+			
+	   	width: 80px;
+	   	 height: 80px; 
+	   	
+	}
+
+			img.um {
+			
+	   	width: 80px;
+	   	 height: 80px; 
+	   	
+	}
+
+			img.Walton {
+			
+	   	width: 80px;
+	   	 height: 80px; 
+	   	
+	}
+			img.yamaha {
+			
+	   	width: 80px;
+	   	 height: 80px; 
+	   	
+	}
+
+
+	div.full {
+		width: 1195px;
+		height: 100%;
+
+	}
+
+
+
+	div.intro {
+	   font-family: Dekar;
+	text-align: center;
+	 
+	    margin-left: 25px; 
+	    width: 420px;
+	    
+	}
+
+	h1.headline {
+		color: orange;
+
+	} 
+
+	p.para {
+	color: gray	;
+
+	}	
+
+	img.p1 {
+	    opacity: 0.3;
+	   	width: 310px;
+	   	 height: 200px; 
+	   	
+	}
+
+	img.piframe {
+	    opacity: 0.3;
+	   	width: 20%;
+	   	 height: 50%; 
+	   
+	}
+
+	div.pic1{
+	 float: right;
+	    margin-top: -190px;
+	    	 position:relative;
+	    	 top: 0; 
+	    	 left: 0;
+	    	 z-index: -5;
+	}
+	div.pic2{
+	 float: center;
+	    margin-top: -80px;
+	    margin-left: 490px;
+	    position: absolute;
+	 	   
+	}
+
+	img.p2 {
+	    opacity: 0.7;
+	   	width: 420px;
+	   	 height: 230px; 
+	   	
+	}
+
+	div.pic3{
+	 float: center;
+	    margin-top: 295px;
+	    margin-left: 590px;
+	    position: absolute;
+	 	   
+	}
+
+	img.p3 {
+	    opacity: 0.2;
+	   	width: 370px;
+	   	 height: 380px; 
+	   	
+	}
+
+
+	div.pic4{
+	 float: left;
+	    margin-top:180px;
+	    margin-left: 160px;
+	    position: absolute;
+	    border: 1px  solid orange ;
+		float: center;
+	   	width: 485px;
+	   	 height: 400px;     
+	   	 background-color: rgb(229, 229, 229);
+	   	 text-align: center;
+
+	 	   
+	}
+
+	img.p4 {
+	      margin-top: 11px;
+	    margin-left: 0px;
+	   	width: 450px;
+	   	 height: 280px; 
+	   	
+	}
+
+	h2.headlinep4 {
+		color: orange;
+		font-family: Dekar;
+
+	} 
+
+	p.parap4 {
+	color: gray	;
+	font-family: Dekar;
+	}
+
+	div.pic5{
+	 float: center;
+	    margin-top: 230px;
+	    margin-left: 690px;
+	    position: absolute;
+	 	   
+	}
+
+	img.p5 {
+	    opacity: 0.7;
+	   	width: 310px;
+	   	 height: 260px; 
+	   	
+	}	
+
+	div.pic6{
+	 float: left;
+	    margin-top:-10px;
+	    margin-left: 64%;
+	    position: absolute;
+	    border: 1px  solid orange ;
+		
+	   	width: 325px;
+	   	 height: 305px;     
+	   	 background-color: rgb(229, 229, 229);
+	   	 text-align: center;
+
+	 	   
+	}
+
+	img.p6 {
+	      margin-top: 5px;
+	    margin-left: 0px;
+	   	width: 300px;
+	   	 height: 200px; 
+	   	
+	}
+
+	h3.headlinep6 {
+		color: orange;
+		font-family: Dekar;
+
+	} 
+
+	p.parap6 {
+	color: gray	;
+	font-family: Dekar;
+	}
+
+
+		div.diviframe {
+		margin-left: 89.8%;
+		margin-top: -14.1%;
+		width: 10%;
+	 	height: 750px;
+	 	border: dotted;
+	 	
+		
+	}
